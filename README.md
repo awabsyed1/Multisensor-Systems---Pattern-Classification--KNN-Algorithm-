@@ -44,4 +44,6 @@ Multisensor signal estimation and health monitoring system was designed and impl
 MMSE Estimator was implemented by taking Bayes' Theorem into consideration to predict the actual measured data (without noise) of wind turbine blades. 
 Additionally, CUSUM two-sided test was also implemented to identifiy if the measured data exceeds the desired threshold and generate an alert. 
 
+
+## [Report]
 A report was generated highlighting important findings and critically evaluating the results. 
