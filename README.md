@@ -15,10 +15,13 @@ Sensor measurements/vibration data from five test rigs were used (shown below) t
 
 ### [Energy levels in six frequency bands]
 The raw data was initially normalized and then processed further to deduce the power spectral density for each individual features with appropriate filter (Butterworth) implemented
+
+
 ![image](https://user-images.githubusercontent.com/42310216/146125941-c90a56c8-3583-4bc9-83ba-4b1b01fb07d7.png)
 
 ### [Principal Component Analysis]
 Principal Component Analysis, PCA, method was implemented to reduce the number of dimensions/features and for visualization purposes. 
+
 
 ![image](https://user-images.githubusercontent.com/42310216/146126161-26d6affc-0b35-4ca5-ad91-546a25cae6a7.png)
 
@@ -26,6 +29,8 @@ Principal Component Analysis, PCA, method was implemented to reduce the number o
 1-Nearest Neighbor Algorithm was implemented using the *Euclidean* distance measure. KNN algorithm clasifies the new/upcoming measurement based on the class of one of its nearest neighbours. In other words, the algorithm implemented finds the similarity between the *training* measurements and the *new/test* measurements. 
 
 **Following assumptions were made:**
+
+
 ![image](https://user-images.githubusercontent.com/42310216/146126953-d1cd908d-c112-4574-a56b-e481acb1350d.png)
 
 *The algorithm had an accuracy of 98.66% in determining and classifying faults via frequency data*
