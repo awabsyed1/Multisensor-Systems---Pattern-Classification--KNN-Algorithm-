@@ -1,6 +1,6 @@
 # Multisensor-systems-Pattern-Classification--KNN-Algorithm-
 
-# [Brief Introduction] 
+# [Brief Overview] 
 ## [Section One - Data Processing / Fault Classification]
 Sensor measurements/vibration data from five test rigs were used (shown below) to design a health monitoring system of a rotating machine through exracting informative features from the raw (sensor) data along with evaluating the data in frequency and time-domain.
 
